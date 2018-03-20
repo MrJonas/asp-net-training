@@ -1,0 +1,10 @@
+/Users/jonas/WebstormProjects/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.deps.json
+/Users/jonas/WebstormProjects/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.json
+/Users/jonas/WebstormProjects/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.dev.json
+/Users/jonas/WebstormProjects/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.dll
+/Users/jonas/WebstormProjects/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.pdb
+/Users/jonas/WebstormProjects/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csproj.CoreCompileInputs.cache
+/Users/jonas/WebstormProjects/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfoInputs.cache
+/Users/jonas/WebstormProjects/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfo.cs
+/Users/jonas/WebstormProjects/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.dll
+/Users/jonas/WebstormProjects/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.pdb
